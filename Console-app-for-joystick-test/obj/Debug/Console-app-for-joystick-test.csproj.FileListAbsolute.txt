@@ -1,0 +1,7 @@
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\bin\Debug\Console-app-for-joystick-test.exe.config
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\bin\Debug\Console-app-for-joystick-test.exe
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\bin\Debug\Console-app-for-joystick-test.pdb
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\obj\Debug\Console-app-for-joystick-test.csprojAssemblyReference.cache
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\obj\Debug\Console-app-for-joystick-test.csproj.CoreCompileInputs.cache
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\obj\Debug\Console-app-for-joystick-test.exe
+D:\C# projects\Repos\Arduino\Console-app-for-joystick-test\obj\Debug\Console-app-for-joystick-test.pdb
